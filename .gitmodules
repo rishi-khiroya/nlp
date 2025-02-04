@@ -1,0 +1,4 @@
+[submodule "task"]
+	path = task
+	url = git@github.com:Perez-AlmendrosC/dontpatronizeme.git
+	ignore = dirty
