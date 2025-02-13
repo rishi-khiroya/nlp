@@ -10,13 +10,13 @@
 - **Evaluation Metric:** F1 score of the **positive class** (PCL examples).
 
 ## Recommended Hugging Face Models for Fine-Tuning
-| Model | Description |
-|--------|------------|
-| [`cardiffnlp/pcl_robertabase`](https://huggingface.co/cardiffnlp/pcl_robertabase) | RoBERTa-base fine-tuned on PCL detection (strong baseline). |
-| [`bert-base-uncased`](https://huggingface.co/bert-base-uncased) | General-purpose BERT model for text classification. |
-| [`roberta-large`](https://huggingface.co/roberta-large) | Larger RoBERTa model, may improve performance at higher compute cost. |
-| [`distilbert-base-uncased`](https://huggingface.co/distilbert-base-uncased) | Lightweight BERT model with fewer parameters. |
-| [`xlm-roberta-base`](https://huggingface.co/xlm-roberta-base) | Multilingual RoBERTa model, useful if dataset has linguistic diversity. |
+| | Model | Description |
+|-|--------|------------|
+| | [`cardiffnlp/pcl_robertabase`](https://huggingface.co/cardiffnlp/pcl_robertabase) | RoBERTa-base fine-tuned on PCL detection (strong baseline). |
+| | [`bert-base-uncased`](https://huggingface.co/bert-base-uncased) | General-purpose BERT model for text classification. |
+|✔️| [`roberta-large`](https://huggingface.co/roberta-large) | Larger RoBERTa model, may improve performance at higher compute cost. |
+| | [`distilbert-base-uncased`](https://huggingface.co/distilbert-base-uncased) | Lightweight BERT model with fewer parameters. |
+| | [`xlm-roberta-base`](https://huggingface.co/xlm-roberta-base) | Multilingual RoBERTa model, useful if dataset has linguistic diversity. |
 
 ## Fine-Tuning Plan
 
