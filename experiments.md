@@ -26,3 +26,13 @@ Test F1 Score: 0.086786
 Test Accuracy: 0.923591
 Test F1 Score: 0.754404
 ```
+
+
+Best F1: 0.5735
+Best Params: {'lr': 1e-05, 'patience': 1, 'num_epochs': 10}
+
+Best F1: 0.5430
+Best Params: {'lr': 1e-05, 'patience': 1, 'num_epochs': 5}
+
+Best F1: 0.5188
+Best Params: {'lr': 1e-05, 'patience': 1, 'num_epochs': 3}
